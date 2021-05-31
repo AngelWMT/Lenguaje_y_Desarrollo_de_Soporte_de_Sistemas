@@ -1,0 +1,33 @@
+/* separacion de botones y color de sombreado */
+
+body{
+    background-color: aqua;
+}
+.contenedor{
+    clear: both;
+    overflow: auto;
+
+}
+nav{
+    float: right;
+}
+img{
+    float: left;
+}
+
+ul li{
+    display: inline;
+    font-size: 1.5em;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+ul li a{
+    text-decoration: none;
+}
+ul li a:hover{
+    color: white;
+}
+.servicio{
+    font-family: 'Montserrat', sans-serif;
+}
+    

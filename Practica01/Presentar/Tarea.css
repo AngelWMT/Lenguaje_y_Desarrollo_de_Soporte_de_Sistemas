@@ -1,0 +1,39 @@
+h1{
+    color: brown;
+    float: left;
+    font-family: 'Amatic SC', cursive;
+    font-size: 3em
+    
+}
+
+img{ float: left;
+
+}
+
+nav{
+    float: right;
+    
+}
+ul li{
+    display: inline;
+    padding: 10px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2em;
+}
+ul li a{
+    color: brown;
+}
+
+.Banner{
+    width: 1335px;
+    height: 800px;
+
+   
+
+}
+.bienvenido{
+    
+    color: rgb(0, 0, 0);
+    padding-bottom: 50px;
+    
+}

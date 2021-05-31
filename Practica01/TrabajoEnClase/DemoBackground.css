@@ -1,0 +1,27 @@
+h2{
+
+    color: #483d8b;
+}
+.art01{
+    background-image: url(/Practica01/TrabajoEnClase/gallina.png);
+    background-size: contain;
+    background-color: bisque;
+    color: #faa500
+}
+.art02{
+    width: 900px;
+    height: 250px;
+    background-image: url(/Practica01/TrabajoEnClase/computer.png);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
+div{
+    width: 100%;
+    height: 250px;
+}
+.art03{
+    background-color: aqua;
+    background-image: url(/Practica01/TrabajoEnClase/coco.png);
+    background-size:contain;
+    background-position: 10% 40%;
+}

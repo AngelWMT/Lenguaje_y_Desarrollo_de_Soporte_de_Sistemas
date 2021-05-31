@@ -1,0 +1,16 @@
+.seccion{
+    background-color: red;
+    border-style: double;
+}
+.secciontitulo1{
+    background-color: white;
+}
+.secciontitulo2{
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+.seccionparrafo{
+    background-color: white;
+}
+
